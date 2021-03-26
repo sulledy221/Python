@@ -67,8 +67,6 @@ elif a != b and a != c and b != c:
 else:
   print(f'A triangle with {a}, {b} & {c} is an isosceles triangle')
 
-
-
 # exercise-05 Fibonacci sequence for first 50 terms
 
 # Write the code that:
@@ -82,7 +80,6 @@ else:
 #      term: 5 / number: 5
 #      etc.
 
-
 term = 0
 a = 0
 b = 1
@@ -95,9 +92,6 @@ while term < 50:
     a = b
     b = num
   term += 1
-
-
-
 
 # exercise-06 What's the  Season?
 
